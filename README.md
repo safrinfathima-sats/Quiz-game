@@ -1,2 +1,3 @@
 # Quiz-game
 A command-line based interactive quiz application that asks the user multiple-choice questions and evaluates their score. The project focuses on user interaction, data handling, and conditional logic.
+It is a simple interactive program where the user answers multiple-choice questions. The program stores all the questions, options, and answers in a list of dictionaries. For each question, it asks the user to choose A, B, C, or D. If the answer is correct, the score increases, and if it’s wrong, the correct answer is displayed. At the end, the program shows the final score. Through this project, I learned how to use lists, dictionaries, loops, if-else conditions, and input-output in Python.
