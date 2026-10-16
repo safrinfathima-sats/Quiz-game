@@ -1,0 +1,8 @@
+{
+  "name": "Technical & General Quiz Game",
+  "description": "Interactive multiple-choice quiz application covering Python, Data Structures & Algorithms, Web & Networking, Databases, Git & DevOps, CS Fundamentals, and General Trivia.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
