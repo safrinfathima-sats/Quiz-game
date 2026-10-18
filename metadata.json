@@ -1,6 +1,6 @@
 {
   "name": "Technical Quiz Game",
-  "description": "An interactive technical quiz application evaluating programming, computer science, algorithms, web, database, and devops knowledge with instant feedback and topic reviews.",
+  "description": "TechNova — The Technical Challenge Arena. A futuristic developer quiz testing Python, Algorithms, Databases, Web Architecture, Git & DevOps, and Computer Science fundamentals.",
   "permissions": [],
   "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

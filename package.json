@@ -1,0 +1,10 @@
+{
+  "name": "technical-quiz-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive technical quiz application evaluating programming, computer science, algorithms, web, database, and devops knowledge.",
+  "scripts": {
+    "dev": "python3 app.py",
+    "start": "python3 app.py"
+  }
+}
